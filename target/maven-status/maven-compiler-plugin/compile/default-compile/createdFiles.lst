@@ -1,0 +1,4 @@
+com\schwab\assessment\model\Learner.class
+com\schwab\assessment\service\CourseOfferingService.class
+com\schwab\assessment\model\EnrollmentStatus.class
+com\schwab\assessment\model\EnrollmentResult.class

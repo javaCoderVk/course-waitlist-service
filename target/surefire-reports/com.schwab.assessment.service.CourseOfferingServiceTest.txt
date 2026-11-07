@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.schwab.assessment.service.CourseOfferingServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.722 s -- in com.schwab.assessment.service.CourseOfferingServiceTest
